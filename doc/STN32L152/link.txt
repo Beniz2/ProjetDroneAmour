@@ -1,0 +1,1 @@
+http://www.st.com/en/microcontrollers/stm32l152re.html

@@ -1,0 +1,7 @@
+http://www.st.com/en/ecosystems/x-nucleo-iks01a2.html
+https://os.mbed.com/teams/ST/code/X_NUCLEO_IKS01A2/
+
+http://www.st.com/en/mems-and-sensors/lsm6dsl.html
+http://www.st.com/en/mems-and-sensors/lsm303agr.html
+http://www.st.com/en/mems-and-sensors/lps22hb.html
+http://www.st.com/en/mems-and-sensors/hts221.html
