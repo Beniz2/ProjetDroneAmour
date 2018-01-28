@@ -1,0 +1,62 @@
+Dependencies for Project 'main', Target 'STM32L152 Flash': (DO NOT MODIFY !)
+F (.\Retarget.c)(0x532075FE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\_STM32L152_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32L1XX_XL-o .\flash\retarget.o --omf_browse .\flash\retarget.crf --depend .\flash\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BE5B4)
+I (C:\Keil_v5\ARM\ARMCC\include\rt_misc.h)(0x588BE5B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x588BE5B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BE5B4)
+I (Serial.h)(0x532075FE)
+F (.\Serial.c)(0x532075FE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\_STM32L152_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32L1XX_XL-o .\flash\serial.o --omf_browse .\flash\serial.crf --depend .\flash\serial.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include\stm32l1xx.h)(0x53202006)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BE5B4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\mpu_armv7.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include\system_stm32l1xx.h)(0x53202006)
+I (Serial.h)(0x532075FE)
+F (.\main.c)(0x54E45542)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\_STM32L152_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32L1XX_XL-o .\flash\main.o --omf_browse .\flash\main.crf --depend .\flash\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BE5B4)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board\Board_LED.h)(0x5877623C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BE5B4)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board\Board_Buttons.h)(0x5877623C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include\stm32l1xx.h)(0x53202006)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\mpu_armv7.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include\system_stm32l1xx.h)(0x53202006)
+I (Serial.h)(0x532075FE)
+F (.\Abstract.txt)(0x54E45542)()
+F (C:\Keil_v5\ARM\PACK\Keil\STM32NUCLEO_BSP\1.6.0\Boards\ST\NUCLEO-L152RE\Common\Buttons_NUCLEO_L152RE.c)(0x53F5E690)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\_STM32L152_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32L1XX_XL-o .\flash\buttons_nucleo_l152re.o --omf_browse .\flash\buttons_nucleo_l152re.crf --depend .\flash\buttons_nucleo_l152re.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include\stm32l1xx.h)(0x53202006)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BE5B4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\mpu_armv7.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include\system_stm32l1xx.h)(0x53202006)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board\Board_Buttons.h)(0x5877623C)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32NUCLEO_BSP\1.6.0\Boards\ST\NUCLEO-L152RE\Common\LED_NUCLEO_L152RE.c)(0x53F5E690)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\_STM32L152_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32L1XX_XL-o .\flash\led_nucleo_l152re.o --omf_browse .\flash\led_nucleo_l152re.crf --depend .\flash\led_nucleo_l152re.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include\stm32l1xx.h)(0x53202006)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BE5B4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\mpu_armv7.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include\system_stm32l1xx.h)(0x53202006)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board\Board_LED.h)(0x5877623C)
+F (RTE\Device\STM32L152RE\startup_stm32l152xe.s)(0x57E12880)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_STM32L152_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "STM32L152xE SETA 1"--list .\flash\startup_stm32l152xe.lst --xref -o .\flash\startup_stm32l152xe.o --depend .\flash\startup_stm32l152xe.d)
+F (RTE\Device\STM32L152RE\system_stm32l1xx.c)(0x53F5E690)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\_STM32L152_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32L1XX_XL-o .\flash\system_stm32l1xx.o --omf_browse .\flash\system_stm32l1xx.crf --depend .\flash\system_stm32l1xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include\stm32l1xx.h)(0x53202006)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BE5B4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\mpu_armv7.h)(0x5A0DBE6A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include\system_stm32l1xx.h)(0x53202006)
+F (RTE\Device\STM32L152RE\startup_stm32l1xx_xl.s)(0x532075FE)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_STM32L152_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.5.0\Board-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.0.2\Device\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "STM32L1XX_XL SETA 1"--list .\flash\startup_stm32l1xx_xl.lst --xref -o .\flash\startup_stm32l1xx_xl.o --depend .\flash\startup_stm32l1xx_xl.d)
